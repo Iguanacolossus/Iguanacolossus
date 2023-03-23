@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rachel.
 - 👀 I’m interested in data and outdoor adventures.
-- 🌱 Im currently learning geospatial programming and remote sensing as well as upskilling my self in NLP.
 - 💞️ I’m looking to collaborate on data science for good!
 - 📫 How to reach me: rachelbushinsky@gmail.com
 
